@@ -57,6 +57,7 @@
 
 #+RESULTS:
 : 9.000000000007091
+
 ** 1.8
 
 #+BEGIN_SRC scheme
@@ -82,6 +83,7 @@
 
 #+RESULTS:
 : 3.0000000000000977
+
 ** 1.10
 
 #+BEGIN_SRC scheme
